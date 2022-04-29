@@ -24,20 +24,6 @@ main ()
 
 
 
-add author's gender to each text
-
-add date of publication to file
-
-
-
-
-
-
-
-
-
-
-
 
 
 
